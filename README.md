@@ -2,7 +2,7 @@
 Covid19 cases reporting till week 47 of 2023
 ## Project architecture:
 ![Data pipeline](https://github.com/SidEnigma/covid19_23/assets/19359983/3f6814c9-b9b1-44ec-b516-45510982dda6)
-## Instructions on how to create resources (specific to Azure's free one-month trial):
+## Instructions on how to create resources (for Azure's free one-month trial):
 - All resources can be created from Azure portal's homepage.
 ![create_resource_group_1](https://github.com/SidEnigma/covid19_23/assets/19359983/19d9270e-28a6-4213-9012-dfa11a4ae6a2)
 - A resource group is used to club your resources related to a particular project. You can select any region.
@@ -13,4 +13,5 @@ Covid19 cases reporting till week 47 of 2023
 ![sa4](https://github.com/SidEnigma/covid19_23/assets/19359983/d7cc9bdf-a752-45f1-8fa1-a839f542bc6c)
 - Now, we create an SQL Database for storing our results. Name the database and click 'Create new' for Server. In the new window that pops up, provide a unique server name, select 'Use SQL authentication' under the Authentication method, and create credentials for server login.
 - You don't want an SQL elastic pool and choose 'Development' as your workload environment for cost-effectiveness. Click on 'Configure database' to change to 'Basic' for your Compute + storage option. Also choose 'Locally-redundant backup storage' for Backup storage redundancy.
-![sql](https://github.com/SidEnigma/covid19_23/assets/19359983/02951352-8d9d-465b-b1a9-4730e3d607ec)
+![sql](https://github.com/SidEnigma/covid19_23/assets/19359983/e22af164-6869-43ea-8c50-94af3f114aa6)
+
