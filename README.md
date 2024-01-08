@@ -2,6 +2,8 @@
 Covid19 cases reporting till week 47 of 2023
 ## Project architecture:
 ![Data pipeline](https://github.com/SidEnigma/covid19_23/assets/19359983/3f6814c9-b9b1-44ec-b516-45510982dda6)
+## Data Pipeline for Copy Activity
+![Copy_Activity2](https://github.com/SidEnigma/covid19_23/assets/19359983/1b4896f9-72ae-4ff3-9e34-708757f2a73b)
 ## Instructions on how to create resources (for Azure's free one-month trial):
 - All resources can be created from Azure portal's homepage.
 ![create_resource_group_1](https://github.com/SidEnigma/covid19_23/assets/19359983/19d9270e-28a6-4213-9012-dfa11a4ae6a2)
