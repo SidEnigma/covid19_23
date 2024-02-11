@@ -1,5 +1,6 @@
 # covid19_23
 Covid19 cases reporting till week 47 of 2023
+
 [Article](https://www.linkedin.com/pulse/data-engineering-pipeline-azure-factory-covid-19-project-sahoo-er4he/)
 ## Project architecture:
 ![Data pipeline](https://github.com/SidEnigma/covid19_23/assets/19359983/3f6814c9-b9b1-44ec-b516-45510982dda6)
