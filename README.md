@@ -1,5 +1,5 @@
 # Data Engineering Pipeline in Azure
-Reporting of COVID-19 cases, deaths, hospital and ICU occupancies till week 47 of 2023 using a data engineering pipeline in Azure, visualized in PowerBI
+Reporting of COVID-19 cases, deaths, hospital and ICU occupancies till week 47 of 2023 using a data engineering pipeline in Azure, visualized in PowerBI.
 
 You can find the tutorial for this project in this [Article](https://www.linkedin.com/pulse/data-engineering-pipeline-azure-factory-covid-19-project-sahoo-er4he/)
 
