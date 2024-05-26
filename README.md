@@ -1,5 +1,5 @@
 # covid19_23
-Covid19 cases reporting till week 47 of 2023
+Reporting of COVID-19 cases, deaths, hospital and ICU occupancy till week 47 of 2023 using a data engineering pipeline in Azure
 
 [Article](https://www.linkedin.com/pulse/data-engineering-pipeline-azure-factory-covid-19-project-sahoo-er4he/)
 ## Project architecture:
